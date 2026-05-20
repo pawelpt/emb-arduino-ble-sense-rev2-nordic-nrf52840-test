@@ -158,10 +158,17 @@ WYNIK PŁYTKI: PASS
 
 ## 📁 File Structure
 
+
 ```
 /src
 └── main.cpp   # Full test suite implementation
+/image
+└── ArduinoNanoBLE33SenseRev2-1280x853h.jpg   # Board look
+.gitignore
+LICENSE           # Specifies the legal terms under which the project can be used, modified, and redistributed.
 README.md         # This document
+platformio.ini    # PlatformIO configuration file defining the environment, board type, frameworks, libraries, and build settings.
+
 ```
 
 ---
