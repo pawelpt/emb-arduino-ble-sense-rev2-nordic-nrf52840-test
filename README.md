@@ -17,6 +17,12 @@ The goal is to provide a **simple, reliable, and repeatable** way to validate bo
 
 ---
 
+## ⚡ Board Image
+
+![Arduino Nano 33 BLE Sense Rev2](image/ArduinoNanoBLE33SenseRev2-1280x853h.jpg)
+
+---
+
 ## 🧠 Overview
 
 The test suite is structured around a simple `TestCase` table.  
